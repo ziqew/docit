@@ -1,3 +1,3 @@
-# Doc <small>4.7.1</small>
+# 技术文档
 
-[Getting Started](#docsify)
+[开始](#目录)

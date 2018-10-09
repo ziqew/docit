@@ -10,3 +10,7 @@
 
   * [Java 规范](java-guide.md)
 
+  * [MySQL 规范](mysql-guide.md)
+
+  * [Restful API 规范](rest-api-guide.md)
+
